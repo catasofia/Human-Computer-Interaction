@@ -1,2 +1,2 @@
-# IPM19-20
+# IPM_19-20
 Human-Computer Interaction
